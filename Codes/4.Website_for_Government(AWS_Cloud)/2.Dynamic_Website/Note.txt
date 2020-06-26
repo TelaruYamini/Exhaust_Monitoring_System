@@ -1,0 +1,1 @@
+In the above files, Loginvalidation.php, Alert.php, Dashboard.php and cpcb.jpg are the website files where as government.sql and government.csv are the database files among which government.sql is needed to be imported in XAMPP phpMyAdmin in order to execute the dynamic website and government.csv acts as a reference file which represents the complete picture of our database.

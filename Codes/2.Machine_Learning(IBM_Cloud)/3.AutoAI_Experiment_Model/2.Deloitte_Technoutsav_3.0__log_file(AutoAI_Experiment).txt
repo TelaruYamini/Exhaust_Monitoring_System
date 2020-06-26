@@ -1,0 +1,34 @@
+AUTOAI EXPERIMENT LOG FILE
+
+-  Date: 5/1/2020
+-  Start time: 3:33:38 PM
+-  End time: 3:38:34 PM
+-  Time elapsed: 4 minutes
+
+-  Experiment name: Deloitte_Technoutsav_3.0
+-  Data source: dataset.csv
+-  Watson Studio asset: a893330f-08b2-4cc0-b934-a304fc709a61
+-  Watson Machine Learning training guid: 70de8acf-a3f2-4c86-99c6-2a3ea71e99e3
+
+INFO   5/1/2020, 3:33:42 PM   Train_log_msg_downloading
+INFO   5/1/2020, 3:33:42 PM   starting autoai on wml
+INFO   5/1/2020, 3:33:58 PM   Train_log_msg_model_selection_plural
+INFO   5/1/2020, 3:34:03 PM   Train_log_msg_model_optimization_preparing
+INFO   5/1/2020, 3:34:08 PM   Train_log_msg_model_optimization_start
+INFO   5/1/2020, 3:34:23 PM   Train_log_msg_model_optimization_complete
+INFO   5/1/2020, 3:34:28 PM   Train_log_msg_feature_engineering_start
+INFO   5/1/2020, 3:36:23 PM   Train_log_msg_feature_engineering_complete
+INFO   5/1/2020, 3:36:28 PM   Train_log_msg_optimizing_hyperparams_complete
+INFO   5/1/2020, 3:36:33 PM   Train_log_msg_optimizing_hyperparams_start
+INFO   5/1/2020, 3:37:13 PM   Train_log_msg_optimizing_hyperparams_complete
+INFO   5/1/2020, 3:37:18 PM   Train_log_msg_composing_model_type_complete
+INFO   5/1/2020, 3:37:23 PM   Train_log_msg_transforming_data
+INFO   5/1/2020, 3:37:28 PM   Train_log_msg_feature_engineering_start
+INFO   5/1/2020, 3:37:58 PM   Train_log_msg_feature_engineering_complete
+INFO   5/1/2020, 3:38:03 PM   Train_log_msg_optimizing_hyperparams_complete
+INFO   5/1/2020, 3:38:08 PM   Train_log_msg_composing_model_type_complete
+INFO   5/1/2020, 3:38:13 PM   Train_log_msg_data_training_complete
+INFO   5/1/2020, 3:38:24 PM   Train_log_msg_composing_pipelines_complete
+INFO   5/1/2020, 3:38:34 PM   autoai execution completed
+INFO   5/1/2020, 3:38:34 PM   Train_log_msg_pipeline_created
+INFO   5/1/2020, 3:38:40 PM   Train_log_msg_training_completed

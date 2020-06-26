@@ -1,0 +1,1 @@
+In the above files, Industry.html, Login.php and 1mg2.jpg are the website files where as industry.sql and industry.csv are the database files among which industry.sql is needed to be imported in XAMPP phpMyAdmin in order to execute the dynamic website and industry.csv acts as a reference file which represents the complete picture of our database.

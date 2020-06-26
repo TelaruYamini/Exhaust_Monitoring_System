@@ -1,0 +1,38 @@
+<html> <head>
+<title>FORM</title> <style>
+body{
+background-image:url(1mg2.jpg); background-repeat:no-repeat; background-size:cover; 
+align:“center”;
+} </style> </head>
+<body bgcolor=#54BB7A>
+
+<br><br>
+<h1 align="center">POLLUTION TAX EVALUATION</h1>
+<center>
+<form method="post" action="Login.php">
+&nbsp&nbsp&nbsp&nbsp&nbspEnter the Industry&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    : &nbsp&nbsp&nbsp
+<input type="text" name="name">
+<br><br><br>
+&nbsp&nbsp&nbsp&nbsp&nbspEnter the PM2.5Value&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    : &nbsp&nbsp&nbsp
+<input type="text" name="pmvalue">
+<!--Enter the PM2.5 value&nbsp&nbsp&nbsp&nbsp    :&nbsp&nbsp
+<input type="text" name="pmvalue">
+
+<br><br>-->
+<br><br><br>
+<input type="submit" name="login" value="Estimate Fine"> </form>
+</center>
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "52e5182d-8474-46cd-838d-510cdcc8b9cf", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "dde01ac8-57c2-4def-bf62-d00f964b2fe9", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+</body> </html>
